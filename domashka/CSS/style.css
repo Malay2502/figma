@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    background-image: url(../images/sky.png);
+    height: 372px;
+    background-size: cover;
+}
+
+.container-logo {
+    padding: 145px 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 754px;
+    height: 63px;
+    top: 120px;
+    color: #003395;
+}
+
+.container-logo p {
+    margin: 24px 0;
+    color: #000000;
+}
+
+nav {
+    background-color: #003395;
+}
+
+.nav-block {
+    padding: 20px 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 754px;
+    height: 63px;
+    top: 120px;
+}
+
+.nav-text {
+    padding: 0 62px 0 0;
+    text-decoration: none;
+    color: white;
+}
+
+.container-block {
+    padding: 20px 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 754px;
+    height: 63px;
+    top: 120px;
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+}
+
+.texst-zag {
+    color: #003395;
+    padding: 15px 0;
+    width: 754px;
+    height: 0px;
+    left: 147px;
+    top: 504px;
+    padding: 10px 0 30px 0;
+    margin: 15px 0;
+}
+
+hr {
+    border: none;
+    background-color: #003395;
+    color: #003395;
+    height: 1px;
+    padding: 2px 0;
+    margin: 40px 0 10px 0;
+}
+
+.lin-n {
+    margin: 15px 0;
+}
+
+.lin-n5 {
+    margin: 70px 0 10px 0;
+}
+
+.left-block {
+    width: 754px;
+    height: 120px;
+    left: 147px;
+    top: 580px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+span {
+    color: #003395;
+}
+
+aside {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 362px;
+    padding: 10px;
+    width: 200px;
+    float: right;
+}
+
+.bok1,
+.bok2 {
+    height: 244px;
+    width: 362px;
+    left: 931px;
+    top: 502px;
+    border-radius: 0px;
+}
+
+.zag-bok {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    color: #FFFFFF;
+    padding: 10px 0 7px 15px;
+    width: 290px;
+    height: 60px;
+    left: 967px;
+    top: 535px;
+    background: #24B0FF;
+    height: 50px;
+    border-radius: nullpx;
+}
